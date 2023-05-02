@@ -1,53 +1,434 @@
-{
-    "chefs": [
+[
+  {
+    "id": 1,
+    "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=900&t=st=1683040234~exp=1683040834~hmac=b1240e4ac9764a2e91b6113d122cf1a53e80a6595c26660b5c14d5a934587f08",
+    "chef_name": "Suman Roy",
+    "years_of_experience": 15,
+    "number_of_recipes": 100,
+    "likes": 2000,
+    "description": "Suman Roy is a skilled Bengali food maker. He is an experienced chef with a good knowledge of various Bengali recipes. He has extensive knowledge of Bangladeshi and foreign cuisine and creates new recipes by experimenting with different foods.",
+    "recipes": [
       {
         "id": 1,
-        "chef_picture": "https://example.com/chef1.png",
-        "chef_name": "John Smith",
-        "years_of_experience": 10,
-        "number_of_recipes": 50,
-        "likes": 1000
+        "recipe_name": "Bengali Fish Curry",
+        "ingredients": [
+          "1 lb. fish fillets",
+          "1 cup chopped onion",
+          "2 cloves garlic, minced",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion and garlic and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, turmeric powder, cayenne pepper, and salt. Stir well.\n2. Add the fish fillets and cook for 5-10 minutes or until cooked through.\n3. Add water and simmer for a few more minutes. Adjust seasoning if necessary.",
+        "rating": 4.5,
+        "food_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=740&t=st=1683044396~exp=1683044996~hmac=ed77f524588b66c5aef507e9680eaab60f79d75789f1e19b7361d4f5ed3a6b20"
       },
       {
         "id": 2,
-        "chef_picture": "https://example.com/chef2.png",
-        "chef_name": "Jane Doe",
-        "years_of_experience": 5,
-        "number_of_recipes": 20,
-        "likes": 500
+        "recipe_name": "Bengali Pulao",
+        "ingredients": [
+          "1 cup basmati rice",
+          "2 cups water",
+          "1 onion, sliced",
+          "1 bay leaf",
+          "2 cloves",
+          "1 cinnamon stick",
+          "2 cardamom pods",
+          "1/4 cup raisins",
+          "1/4 cup cashews",
+          "2 tbsp. oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Rinse the rice in cold water and soak for 30 minutes.\n2. Heat oil in a large saucepan. Add onion and sauté until lightly browned. Add the bay leaf, cloves, cinnamon stick, and cardamom pods. Stir well.\n3. Add the rice and stir to coat with the oil and spices. Add water and salt. Bring to a boil.\n4. Reduce heat, cover, and simmer for 15-20 minutes or until rice is cooked and water is absorbed.\n5. Remove from heat and stir in the raisins and cashews. Cover and let stand for 10 minutes. Fluff with a fork before serving.",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/front-view-tasty-boiled-rice-with-dried-pepper-garlic_179666-25779.jpg?w=900&t=st=1683044542~exp=1683045142~hmac=b2d37e152483c6a7da3b3f9dce76d489ab6068596b86828f200277d16c75d59b"
       },
       {
         "id": 3,
-        "chef_picture": "https://example.com/chef3.png",
-        "chef_name": "Mike Johnson",
-        "years_of_experience": 8,
-        "number_of_recipes": 30,
-        "likes": 700
+        "recipe_name": "Chana Masala",
+        "ingredients": [
+          "1 can chickpeas, drained and rinsed",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1/2 inch ginger, grated",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion, garlic, and ginger and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, tur",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=826&t=st=1683044614~exp=1683045214~hmac=b8b0bcb65b22d43c06d8a09921776b8beac590e482cb2b2f0cb2a9d986e314aa"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://img.freepik.com/free-photo/female-chef-chopping-vegetables-kitchen_23-2148763134.jpg?w=826&t=st=1683040473~exp=1683041073~hmac=ffc97a0b03fc05dfa5cdc1dc029f0ac0fd532103d7014d64f90593345a0258f2",
+    "chef_name": "Riya Basu",
+    "years_of_experience": 10,
+    "number_of_recipes": 75,
+    "likes": 1500,
+    "description": "Riya Basu is a talented Bengali food maker who specializes in traditional Bengali dishes. She has a wealth of knowledge about the cultural significance of various Bengali foods and prepares them with great care and attention to detail.",
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Bengali Fish Curry",
+        "ingredients": [
+          "1 lb. fish fillets",
+          "1 cup chopped onion",
+          "2 cloves garlic, minced",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion and garlic and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, turmeric powder, cayenne pepper, and salt. Stir well.\n2. Add the fish fillets and cook for 5-10 minutes or until cooked through.\n3. Add water and simmer for a few more minutes. Adjust seasoning if necessary.",
+        "rating": 4.5,
+        "food_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=740&t=st=1683044396~exp=1683044996~hmac=ed77f524588b66c5aef507e9680eaab60f79d75789f1e19b7361d4f5ed3a6b20"
       },
       {
-        "id": 4,
-        "chef_picture": "https://example.com/chef4.png",
-        "chef_name": "Emily Lee",
-        "years_of_experience": 3,
-        "number_of_recipes": 15,
-        "likes": 200
+        "id": 2,
+        "recipe_name": "Bengali Pulao",
+        "ingredients": [
+          "1 cup basmati rice",
+          "2 cups water",
+          "1 onion, sliced",
+          "1 bay leaf",
+          "2 cloves",
+          "1 cinnamon stick",
+          "2 cardamom pods",
+          "1/4 cup raisins",
+          "1/4 cup cashews",
+          "2 tbsp. oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Rinse the rice in cold water and soak for 30 minutes.\n2. Heat oil in a large saucepan. Add onion and sauté until lightly browned. Add the bay leaf, cloves, cinnamon stick, and cardamom pods. Stir well.\n3. Add the rice and stir to coat with the oil and spices. Add water and salt. Bring to a boil.\n4. Reduce heat, cover, and simmer for 15-20 minutes or until rice is cooked and water is absorbed.\n5. Remove from heat and stir in the raisins and cashews. Cover and let stand for 10 minutes. Fluff with a fork before serving.",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/front-view-tasty-boiled-rice-with-dried-pepper-garlic_179666-25779.jpg?w=900&t=st=1683044542~exp=1683045142~hmac=b2d37e152483c6a7da3b3f9dce76d489ab6068596b86828f200277d16c75d59b"
       },
       {
-        "id": 5,
-        "chef_picture": "https://example.com/chef5.png",
-        "chef_name": "David Brown",
-        "years_of_experience": 12,
-        "number_of_recipes": 75,
-        "likes": 1500
+        "id": 3,
+        "recipe_name": "Chana Masala",
+        "ingredients": [
+          "1 can chickpeas, drained and rinsed",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1/2 inch ginger, grated",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion, garlic, and ginger and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, tur",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=826&t=st=1683044614~exp=1683045214~hmac=b8b0bcb65b22d43c06d8a09921776b8beac590e482cb2b2f0cb2a9d986e314aa"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-771.jpg?w=900&t=st=1683040565~exp=1683041165~hmac=159ba9aed668441f278bb51b43f1b8ba5629b385a2320f385f1c7168883db5be",
+    "chef_name": "Arjun Gupta",
+    "years_of_experience": 20,
+    "number_of_recipes": 150,
+    "likes": 3000,
+    "description": "Arjun Gupta is a renowned Bengali food maker with over two decades of experience in the industry. He is known for his innovative approach to cooking and has created several new Bengali dishes that have become popular among food lovers.",
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Bengali Fish Curry",
+        "ingredients": [
+          "1 lb. fish fillets",
+          "1 cup chopped onion",
+          "2 cloves garlic, minced",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion and garlic and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, turmeric powder, cayenne pepper, and salt. Stir well.\n2. Add the fish fillets and cook for 5-10 minutes or until cooked through.\n3. Add water and simmer for a few more minutes. Adjust seasoning if necessary.",
+        "rating": 4.5,
+        "food_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=740&t=st=1683044396~exp=1683044996~hmac=ed77f524588b66c5aef507e9680eaab60f79d75789f1e19b7361d4f5ed3a6b20"
       },
       {
-        "id": 6,
-        "chef_picture": "https://example.com/chef6.png",
-        "chef_name": "Sophie Kim",
-        "years_of_experience": 6,
-        "number_of_recipes": 25,
-        "likes": 400
+        "id": 2,
+        "recipe_name": "Bengali Pulao",
+        "ingredients": [
+          "1 cup basmati rice",
+          "2 cups water",
+          "1 onion, sliced",
+          "1 bay leaf",
+          "2 cloves",
+          "1 cinnamon stick",
+          "2 cardamom pods",
+          "1/4 cup raisins",
+          "1/4 cup cashews",
+          "2 tbsp. oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Rinse the rice in cold water and soak for 30 minutes.\n2. Heat oil in a large saucepan. Add onion and sauté until lightly browned. Add the bay leaf, cloves, cinnamon stick, and cardamom pods. Stir well.\n3. Add the rice and stir to coat with the oil and spices. Add water and salt. Bring to a boil.\n4. Reduce heat, cover, and simmer for 15-20 minutes or until rice is cooked and water is absorbed.\n5. Remove from heat and stir in the raisins and cashews. Cover and let stand for 10 minutes. Fluff with a fork before serving.",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/front-view-tasty-boiled-rice-with-dried-pepper-garlic_179666-25779.jpg?w=900&t=st=1683044542~exp=1683045142~hmac=b2d37e152483c6a7da3b3f9dce76d489ab6068596b86828f200277d16c75d59b"
+      },
+      {
+        "id": 3,
+        "recipe_name": "Chana Masala",
+        "ingredients": [
+          "1 can chickpeas, drained and rinsed",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1/2 inch ginger, grated",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion, garlic, and ginger and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, tur",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=826&t=st=1683044614~exp=1683045214~hmac=b8b0bcb65b22d43c06d8a09921776b8beac590e482cb2b2f0cb2a9d986e314aa"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-9893.jpg?w=900&t=st=1683040765~exp=1683041365~hmac=c08b336434bd28a99e25dba5c533689af6e7869f257f1aa890c254d483e2ff62",
+    "chef_name": "Priya Das",
+    "years_of_experience": 8,
+    "number_of_recipes": 50,
+    "likes": 1000,
+    "description": "Priya Das is a young and talented Bengali food maker who is quickly making a name for herself in the industry. She is passionate about cooking and has a unique style that blends traditional Bengali flavors with modern cooking techniques.",
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Bengali Fish Curry",
+        "ingredients": [
+          "1 lb. fish fillets",
+          "1 cup chopped onion",
+          "2 cloves garlic, minced",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion and garlic and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, turmeric powder, cayenne pepper, and salt. Stir well.\n2. Add the fish fillets and cook for 5-10 minutes or until cooked through.\n3. Add water and simmer for a few more minutes. Adjust seasoning if necessary.",
+        "rating": 4.5,
+        "food_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=740&t=st=1683044396~exp=1683044996~hmac=ed77f524588b66c5aef507e9680eaab60f79d75789f1e19b7361d4f5ed3a6b20"
+      },
+      {
+        "id": 2,
+        "recipe_name": "Bengali Pulao",
+        "ingredients": [
+          "1 cup basmati rice",
+          "2 cups water",
+          "1 onion, sliced",
+          "1 bay leaf",
+          "2 cloves",
+          "1 cinnamon stick",
+          "2 cardamom pods",
+          "1/4 cup raisins",
+          "1/4 cup cashews",
+          "2 tbsp. oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Rinse the rice in cold water and soak for 30 minutes.\n2. Heat oil in a large saucepan. Add onion and sauté until lightly browned. Add the bay leaf, cloves, cinnamon stick, and cardamom pods. Stir well.\n3. Add the rice and stir to coat with the oil and spices. Add water and salt. Bring to a boil.\n4. Reduce heat, cover, and simmer for 15-20 minutes or until rice is cooked and water is absorbed.\n5. Remove from heat and stir in the raisins and cashews. Cover and let stand for 10 minutes. Fluff with a fork before serving.",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/front-view-tasty-boiled-rice-with-dried-pepper-garlic_179666-25779.jpg?w=900&t=st=1683044542~exp=1683045142~hmac=b2d37e152483c6a7da3b3f9dce76d489ab6068596b86828f200277d16c75d59b"
+      },
+      {
+        "id": 3,
+        "recipe_name": "Chana Masala",
+        "ingredients": [
+          "1 can chickpeas, drained and rinsed",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1/2 inch ginger, grated",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion, garlic, and ginger and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, tur",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=826&t=st=1683044614~exp=1683045214~hmac=b8b0bcb65b22d43c06d8a09921776b8beac590e482cb2b2f0cb2a9d986e314aa"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=900&t=st=1683040827~exp=1683041427~hmac=ac91bd12cb86f1cad837e43bd625a960ff6e51868a229554b06a4a3c4500f185",
+    "chef_name": "Amit Banerjee",
+    "years_of_experience": 12,
+    "number_of_recipes": 90,
+    "likes": 1800,
+    "description": "Amit Banerjee is a skilled Bengali food maker with a strong understanding of traditional Bengali cuisine. He has a creative approach to cooking and enjoys experimenting with different spices and ingredients to create unique and delicious dishes.",
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Bengali Fish Curry",
+        "ingredients": [
+          "1 lb. fish fillets",
+          "1 cup chopped onion",
+          "2 cloves garlic, minced",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion and garlic and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, turmeric powder, cayenne pepper, and salt. Stir well.\n2. Add the fish fillets and cook for 5-10 minutes or until cooked through.\n3. Add water and simmer for a few more minutes. Adjust seasoning if necessary.",
+        "rating": 4.5,
+        "food_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=740&t=st=1683044396~exp=1683044996~hmac=ed77f524588b66c5aef507e9680eaab60f79d75789f1e19b7361d4f5ed3a6b20"
+      },
+      {
+        "id": 2,
+        "recipe_name": "Bengali Pulao",
+        "ingredients": [
+          "1 cup basmati rice",
+          "2 cups water",
+          "1 onion, sliced",
+          "1 bay leaf",
+          "2 cloves",
+          "1 cinnamon stick",
+          "2 cardamom pods",
+          "1/4 cup raisins",
+          "1/4 cup cashews",
+          "2 tbsp. oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Rinse the rice in cold water and soak for 30 minutes.\n2. Heat oil in a large saucepan. Add onion and sauté until lightly browned. Add the bay leaf, cloves, cinnamon stick, and cardamom pods. Stir well.\n3. Add the rice and stir to coat with the oil and spices. Add water and salt. Bring to a boil.\n4. Reduce heat, cover, and simmer for 15-20 minutes or until rice is cooked and water is absorbed.\n5. Remove from heat and stir in the raisins and cashews. Cover and let stand for 10 minutes. Fluff with a fork before serving.",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/front-view-tasty-boiled-rice-with-dried-pepper-garlic_179666-25779.jpg?w=900&t=st=1683044542~exp=1683045142~hmac=b2d37e152483c6a7da3b3f9dce76d489ab6068596b86828f200277d16c75d59b"
+      },
+      {
+        "id": 3,
+        "recipe_name": "Chana Masala",
+        "ingredients": [
+          "1 can chickpeas, drained and rinsed",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1/2 inch ginger, grated",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion, garlic, and ginger and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, tur",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=826&t=st=1683044614~exp=1683045214~hmac=b8b0bcb65b22d43c06d8a09921776b8beac590e482cb2b2f0cb2a9d986e314aa"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://img.freepik.com/free-photo/chef-kitchen_23-2148006182.jpg?w=900&t=st=1683040852~exp=1683041452~hmac=0316c5ac07a2e365c55ca1b3aba469b1fcc1062981bca7413b620308a99a255d",
+    "chef_name": "Sudha Sen",
+    "years_of_experience": 18,
+    "number_of_recipes": 120,
+    "likes": 2500,
+    "description": "Sudha Sen is a highly respected Bengali food maker who has won numerous awards for her culinary skills. She is a perfectionist and pays great attention to detail when preparing her dishes. Her recipes are known for their exquisite flavor and presentation.",
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Bengali Fish Curry",
+        "ingredients": [
+          "1 lb. fish fillets",
+          "1 cup chopped onion",
+          "2 cloves garlic, minced",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion and garlic and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, turmeric powder, cayenne pepper, and salt. Stir well.\n2. Add the fish fillets and cook for 5-10 minutes or until cooked through.\n3. Add water and simmer for a few more minutes. Adjust seasoning if necessary.",
+        "rating": 4.5,
+        "food_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=740&t=st=1683044396~exp=1683044996~hmac=ed77f524588b66c5aef507e9680eaab60f79d75789f1e19b7361d4f5ed3a6b20"
+      },
+      {
+        "id": 2,
+        "recipe_name": "Bengali Pulao",
+        "ingredients": [
+          "1 cup basmati rice",
+          "2 cups water",
+          "1 onion, sliced",
+          "1 bay leaf",
+          "2 cloves",
+          "1 cinnamon stick",
+          "2 cardamom pods",
+          "1/4 cup raisins",
+          "1/4 cup cashews",
+          "2 tbsp. oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Rinse the rice in cold water and soak for 30 minutes.\n2. Heat oil in a large saucepan. Add onion and sauté until lightly browned. Add the bay leaf, cloves, cinnamon stick, and cardamom pods. Stir well.\n3. Add the rice and stir to coat with the oil and spices. Add water and salt. Bring to a boil.\n4. Reduce heat, cover, and simmer for 15-20 minutes or until rice is cooked and water is absorbed.\n5. Remove from heat and stir in the raisins and cashews. Cover and let stand for 10 minutes. Fluff with a fork before serving.",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/front-view-tasty-boiled-rice-with-dried-pepper-garlic_179666-25779.jpg?w=900&t=st=1683044542~exp=1683045142~hmac=b2d37e152483c6a7da3b3f9dce76d489ab6068596b86828f200277d16c75d59b"
+      },
+      {
+        "id": 3,
+        "recipe_name": "Chana Masala",
+        "ingredients": [
+          "1 can chickpeas, drained and rinsed",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1/2 inch ginger, grated",
+          "1/2 cup tomato puree",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "1/4 tsp. cayenne pepper",
+          "2 tbsp. oil",
+          "1/2 cup water",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion, garlic, and ginger and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, tur",
+        "rating": 4.2,
+        "food_image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=826&t=st=1683044614~exp=1683045214~hmac=b8b0bcb65b22d43c06d8a09921776b8beac590e482cb2b2f0cb2a9d986e314aa"
       }
     ]
   }
-  
+]

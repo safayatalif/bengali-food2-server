@@ -15,6 +15,13 @@ app.get('/chefs', (req, res) => {
     res.send(chefs)
 })
 
+app.get('/chefs/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    console.log(id)
+    const chefData = chefs.find(chef => parseInt(chef.id) === id);
+    res.send(chefData)
+})
+
 app.listen(port, () => {
     console.log(`bengali food api is running on port : ${port}`)
 })
