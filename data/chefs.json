@@ -9,24 +9,21 @@
     "description": "Suman Roy is a skilled Bengali food maker. He is an experienced chef with a good knowledge of various Bengali recipes. He has extensive knowledge of Bangladeshi and foreign cuisine and creates new recipes by experimenting with different foods.",
     "recipes": [
       {
-        "id": 1,
-        "recipe_name": "Bengali Fish Curry",
+        "id": 2,
+        "recipe_name": "Shorshe Ilish (Hilsa fish in mustard sauce)",
         "ingredients": [
-          "1 lb. fish fillets",
-          "1 cup chopped onion",
-          "2 cloves garlic, minced",
-          "1/2 cup tomato puree",
-          "1 tsp. cumin powder",
-          "1 tsp. coriander powder",
-          "1/2 tsp. turmeric powder",
-          "1/4 tsp. cayenne pepper",
-          "2 tbsp. oil",
-          "1/2 cup water",
-          "Salt to taste"
+          "4 Hilsa fish pieces",
+          "3 tablespoons mustard paste",
+          "1/2 teaspoon turmeric powder",
+          "1 teaspoon red chili powder",
+          "1 tablespoon mustard oil",
+          "1 teaspoon salt",
+          "1 teaspoon sugar",
+          "1/2 cup water"
         ],
-        "cooking_method": "1. Heat oil in a large saucepan. Add onion and garlic and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, turmeric powder, cayenne pepper, and salt. Stir well.\n2. Add the fish fillets and cook for 5-10 minutes or until cooked through.\n3. Add water and simmer for a few more minutes. Adjust seasoning if necessary.",
-        "rating": 4.5,
-        "food_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=740&t=st=1683044396~exp=1683044996~hmac=ed77f524588b66c5aef507e9680eaab60f79d75789f1e19b7361d4f5ed3a6b20"
+        "cooking_method": "1. Mix mustard paste, turmeric powder, red chili powder, salt, sugar and mustard oil in a bowl.\n2. Rub the mixture over the fish pieces and keep aside for 15-20 minutes.\n3. Heat a pan and add the marinated fish pieces to it. Cook on medium flame for 2-3 minutes on each side.\n4. Add water and cook for 5-6 minutes till the fish is cooked and the gravy thickens.\n5. Serve hot with steamed rice.",
+        "rating": 4.8,
+        "food_image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg"
       },
       {
         "id": 2,
