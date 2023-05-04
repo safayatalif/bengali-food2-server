@@ -102,23 +102,19 @@
       },
       {
         "id": 2,
-        "recipe_name": "Bengali Pulao",
+        "recipe_name": "Chicken Tikka Masala",
         "ingredients": [
-          "1 cup basmati rice",
-          "2 cups water",
-          "1 onion, sliced",
-          "1 bay leaf",
-          "2 cloves",
-          "1 cinnamon stick",
-          "2 cardamom pods",
-          "1/4 cup raisins",
-          "1/4 cup cashews",
-          "2 tbsp. oil",
-          "Salt to taste"
+          "1 lb. boneless chicken breast, cut into bite-sized pieces",
+          "1 cup plain yogurt",
+          "1 tbsp. lemon juice",
+          "2 tsp. ground cumin",
+          "2 tsp. paprika",
+          "2 tsp. garam masala",
+          "1 tsp. ground ginger"
         ],
-        "cooking_method": "1. Rinse the rice in cold water and soak for 30 minutes.\n2. Heat oil in a large saucepan. Add onion and sauté until lightly browned. Add the bay leaf, cloves, cinnamon stick, and cardamom pods. Stir well.\n3. Add the rice and stir to coat with the oil and spices. Add water and salt. Bring to a boil.\n4. Reduce heat, cover, and simmer for 15-20 minutes or until rice is cooked and water is absorbed.\n5. Remove from heat and stir in the raisins and cashews. Cover and let stand for 10 minutes. Fluff with a fork before serving.",
+        "cooking_method": "1. In a bowl, whisk together the yogurt, lemon juice, cumin, paprika, garam masala, ground ginger, cayenne pepper, and salt. Add the chicken and stir until coated. Marinate in the refrigerator for at least 30 minutes.\n2. Heat the butter in a large skillet over medium heat. Add the onion and cook until softened, about 5 minutes. Add the garlic and grated ginger and cook for another minute. Add the turmeric and cayenne pepper and cook for 30 seconds.\n3. Add the tomato puree and bring to a simmer. Cook for 5 minutes.\n4. Add the chicken and its marinade to the skillet. Cook for about 10 minutes or until the chicken is cooked through.\n5. Stir in the cream and heat through. Season with salt and pepper to taste.\n6. Serve garnished with cilantro, if desired.",
         "rating": 4.2,
-        "food_image": "https://img.freepik.com/free-photo/front-view-tasty-boiled-rice-with-dried-pepper-garlic_179666-25779.jpg?w=900&t=st=1683044542~exp=1683045142~hmac=b2d37e152483c6a7da3b3f9dce76d489ab6068596b86828f200277d16c75d59b"
+        "food_image": "https://img.freepik.com/premium-photo/chicken-curry-masala-kerala-style-chicken-curry-using-fried-coconut-traditional-way_527904-1716.jpg?size=626&ext=jpg&ga=GA1.2.1613183627.1673832056&semt=robertav1_2_sidr"
       },
       {
         "id": 3,
@@ -194,24 +190,18 @@
       },
       {
         "id": 3,
-        "recipe_name": "Chana Masala",
+        "recipe_name": "Roasted Garlic and Tomato Soup",
         "ingredients": [
-          "1 can chickpeas, drained and rinsed",
+          "1 head garlic, roasted",
+          "2 cups chopped tomatoes",
           "1 onion, chopped",
-          "2 cloves garlic, minced",
-          "1/2 inch ginger, grated",
-          "1/2 cup tomato puree",
-          "1 tsp. cumin powder",
-          "1 tsp. coriander powder",
-          "1/2 tsp. turmeric powder",
-          "1/4 tsp. cayenne pepper",
-          "2 tbsp. oil",
-          "1/2 cup water",
-          "Salt to taste"
+          "2 tablespoons olive oil",
+          "4 cups chicken broth",
+          "Salt and pepper to taste"
         ],
-        "cooking_method": "1. Heat oil in a large saucepan. Add onion, garlic, and ginger and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, tur",
+        "cooking_method": "1. Preheat oven to 400°F (200°C). Cut the top off the garlic head and drizzle with olive oil. Wrap in aluminum foil and roast for 30-40 minutes.\n2. Heat olive oil in a large pot over medium heat. Add onion and sauté for 3-4 minutes or until translucent. Add chopped tomatoes and cook for another 3-4 minutes.\n3. Squeeze the roasted garlic cloves out of their skins and add them to the pot. Add chicken broth and bring to a boil. Reduce heat and let simmer for 15-20 minutes.\n4. Use an immersion blender or transfer the soup to a blender to puree until smooth. Adjust seasoning with salt and pepper to taste.",
         "rating": 4.2,
-        "food_image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=826&t=st=1683044614~exp=1683045214~hmac=b8b0bcb65b22d43c06d8a09921776b8beac590e482cb2b2f0cb2a9d986e314aa"
+        "food_image": "https://img.freepik.com/free-photo/top-view-tomato-soup-bread_181624-4675.jpg?size=626&ext=jpg"
       }
     ]
   },
@@ -265,13 +255,12 @@
         "food_image": "https://img.freepik.com/free-photo/front-view-tasty-boiled-rice-with-dried-pepper-garlic_179666-25779.jpg?w=900&t=st=1683044542~exp=1683045142~hmac=b2d37e152483c6a7da3b3f9dce76d489ab6068596b86828f200277d16c75d59b"
       },
       {
-        "id": 3,
-        "recipe_name": "Chana Masala",
+        "id": 1,
+        "recipe_name": "Chicken Curry",
         "ingredients": [
-          "1 can chickpeas, drained and rinsed",
-          "1 onion, chopped",
+          "1 lb. boneless, skinless chicken breasts",
+          "1 cup chopped onion",
           "2 cloves garlic, minced",
-          "1/2 inch ginger, grated",
           "1/2 cup tomato puree",
           "1 tsp. cumin powder",
           "1 tsp. coriander powder",
@@ -281,9 +270,9 @@
           "1/2 cup water",
           "Salt to taste"
         ],
-        "cooking_method": "1. Heat oil in a large saucepan. Add onion, garlic, and ginger and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, tur",
+        "cooking_method": "1. Heat oil in a large saucepan. Add onion and garlic and sauté until lightly browned. Add tomato puree and cook for a few minutes. Add cumin powder, coriander powder, turmeric powder, cayenne pepper, and salt. Stir well.\n2. Add the chicken and cook for 5-10 minutes or until cooked through.\n3. Add water and simmer for a few more minutes. Adjust seasoning if necessary.",
         "rating": 4.2,
-        "food_image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=826&t=st=1683044614~exp=1683045214~hmac=b8b0bcb65b22d43c06d8a09921776b8beac590e482cb2b2f0cb2a9d986e314aa"
+        "food_image": "https://img.freepik.com/free-photo/chicken-curry-white-plate_140725-1119.jpg?size=626&ext=jpg"
       }
     ]
   },
